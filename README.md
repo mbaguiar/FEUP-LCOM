@@ -1,5 +1,7 @@
 # FEUP-LCOM
 
+Developed in colaboration with [Tiago Fragoso](https://github.com/tiagofragoso).<br>
+
 Code developed in Computers' Laboratory curricular unit @FEUP.<br>
 Coded drivers for the most common PC I/O Devices at the HW interface level in C/Assembly.<br>
 Drivers are developed individually throughout the semester and the implemented in a final project, which makes use of all the different I/O devices.<br>
